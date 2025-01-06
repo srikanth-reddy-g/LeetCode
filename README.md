@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/srikanth-reddy-g/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/srikanth-reddy-g/LeetCode/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
@@ -27,4 +28,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [2358-number-of-ways-to-split-array](https://github.com/srikanth-reddy-g/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/srikanth-reddy-g/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
+## Hash Table
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/srikanth-reddy-g/LeetCode/tree/master/0141-linked-list-cycle) |
+## Two Pointers
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/srikanth-reddy-g/LeetCode/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
