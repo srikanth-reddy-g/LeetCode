@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/srikanth-reddy-g/LeetCode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/srikanth-reddy-g/LeetCode/tree/master/0242-valid-anagram) |
 | [1502-construct-k-palindrome-strings](https://github.com/srikanth-reddy-g/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/srikanth-reddy-g/LeetCode/tree/master/1524-string-matching-in-an-array) |
@@ -39,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/srikanth-reddy-g/LeetCode/tree/master/0049-group-anagrams) |
 | [1396-count-servers-that-communicate](https://github.com/srikanth-reddy-g/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1524-string-matching-in-an-array](https://github.com/srikanth-reddy-g/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/srikanth-reddy-g/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -50,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/srikanth-reddy-g/LeetCode/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/srikanth-reddy-g/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/srikanth-reddy-g/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0242-valid-anagram](https://github.com/srikanth-reddy-g/LeetCode/tree/master/0242-valid-anagram) |
@@ -111,5 +114,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/srikanth-reddy-g/LeetCode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/srikanth-reddy-g/LeetCode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
