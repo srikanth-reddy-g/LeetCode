@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0049-group-anagrams](https://github.com/srikanth-reddy-g/LeetCode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/srikanth-reddy-g/LeetCode/tree/master/0242-valid-anagram) |
+| [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/srikanth-reddy-g/LeetCode/tree/master/0340-longest-substring-with-at-most-k-distinct-characters) |
 | [1502-construct-k-palindrome-strings](https://github.com/srikanth-reddy-g/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/srikanth-reddy-g/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/srikanth-reddy-g/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
@@ -56,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0141-linked-list-cycle](https://github.com/srikanth-reddy-g/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/srikanth-reddy-g/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0242-valid-anagram](https://github.com/srikanth-reddy-g/LeetCode/tree/master/0242-valid-anagram) |
+| [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/srikanth-reddy-g/LeetCode/tree/master/0340-longest-substring-with-at-most-k-distinct-characters) |
 | [1502-construct-k-palindrome-strings](https://github.com/srikanth-reddy-g/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [2685-first-completely-painted-row-or-column](https://github.com/srikanth-reddy-g/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/srikanth-reddy-g/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -116,4 +118,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0049-group-anagrams](https://github.com/srikanth-reddy-g/LeetCode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/srikanth-reddy-g/LeetCode/tree/master/0242-valid-anagram) |
+## Sliding Window
+|  |
+| ------- |
+| [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/srikanth-reddy-g/LeetCode/tree/master/0340-longest-substring-with-at-most-k-distinct-characters) |
 <!---LeetCode Topics End-->
