@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0023-merge-k-sorted-lists](https://github.com/srikanth-reddy-g/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/srikanth-reddy-g/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/srikanth-reddy-g/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/srikanth-reddy-g/LeetCode/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/srikanth-reddy-g/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/srikanth-reddy-g/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/srikanth-reddy-g/LeetCode/tree/master/0328-odd-even-linked-list) |
@@ -61,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/srikanth-reddy-g/LeetCode/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/srikanth-reddy-g/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/srikanth-reddy-g/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/srikanth-reddy-g/LeetCode/tree/master/0146-lru-cache) |
 | [0159-longest-substring-with-at-most-two-distinct-characters](https://github.com/srikanth-reddy-g/LeetCode/tree/master/0159-longest-substring-with-at-most-two-distinct-characters) |
 | [0242-valid-anagram](https://github.com/srikanth-reddy-g/LeetCode/tree/master/0242-valid-anagram) |
 | [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/srikanth-reddy-g/LeetCode/tree/master/0340-longest-substring-with-at-most-k-distinct-characters) |
@@ -144,4 +146,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/srikanth-reddy-g/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/srikanth-reddy-g/LeetCode/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/srikanth-reddy-g/LeetCode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
