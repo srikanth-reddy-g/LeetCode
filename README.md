@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0159-longest-substring-with-at-most-two-distinct-characters](https://github.com/srikanth-reddy-g/LeetCode/tree/master/0159-longest-substring-with-at-most-two-distinct-characters) |
 | [0242-valid-anagram](https://github.com/srikanth-reddy-g/LeetCode/tree/master/0242-valid-anagram) |
 | [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/srikanth-reddy-g/LeetCode/tree/master/0340-longest-substring-with-at-most-k-distinct-characters) |
+| [0412-fizz-buzz](https://github.com/srikanth-reddy-g/LeetCode/tree/master/0412-fizz-buzz) |
 | [1502-construct-k-palindrome-strings](https://github.com/srikanth-reddy-g/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/srikanth-reddy-g/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/srikanth-reddy-g/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
@@ -164,4 +165,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/srikanth-reddy-g/LeetCode/tree/master/0146-lru-cache) |
+## Math
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/srikanth-reddy-g/LeetCode/tree/master/0412-fizz-buzz) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/srikanth-reddy-g/LeetCode/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
