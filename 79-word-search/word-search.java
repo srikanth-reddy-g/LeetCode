@@ -1,42 +1,43 @@
 class Solution {
-    private boolean dfs(int row, int col, char board[][], String word, int n, int m, StringBuilder sb, int vis[][],
-            int delRow[], int delCol[]) {
-        vis[row][col] = 1;
-        sb.append(board[row][col]);
-        if (sb.toString().equals(word))
+    private boolean dfs(int row, int col, char[][] board, String word, int index,
+            int n, int m, int[][] vis, int[] delRow, int[] delCol) {
+        if (index == word.length()) {
             return true;
-        if (sb.length() >= word.length())
+        }
+        if (row < 0 || col < 0 || row >= n || col >= m || vis[row][col] == 1 || board[row][col] != word.charAt(index)) {
             return false;
+        }
+        vis[row][col] = 1;
         for (int i = 0; i < 4; i++) {
             int nRow = row + delRow[i];
             int nCol = col + delCol[i];
-            if (nRow >= 0 && nCol >= 0 && nRow < n && nCol < m && vis[nRow][nCol] == 0) {
-                if (dfs(nRow, nCol, board, word, n, m, sb, vis, delRow, delCol) == true)
-                    return true;
-                vis[nRow][nCol] = 0;
-                sb.deleteCharAt(sb.length() - 1);
+
+            if (dfs(nRow, nCol, board, word, index + 1, n, m, vis, delRow, delCol)) {
+                return true;
             }
         }
+        vis[row][col] = 0;
         return false;
     }
 
     public boolean exist(char[][] board, String word) {
         int n = board.length;
         int m = board[0].length;
-        int vis[][] = new int[n][m];
-        int delRow[] = new int[] { -1, 0, 1, 0 };
-        int delCol[] = new int[] { 0, 1, 0, -1 };
-        StringBuilder sb = new StringBuilder();
+
+        int[][] vis = new int[n][m];
+        int[] delRow = { -1, 0, 1, 0 };
+        int[] delCol = { 0, 1, 0, -1 };
+
         for (int i = 0; i < n; i++) {
             for (int j = 0; j < m; j++) {
                 if (board[i][j] == word.charAt(0)) {
-                    if (dfs(i, j, board, word, n, m, sb, vis, delRow, delCol) == true)
+                    if (dfs(i, j, board, word, 0, n, m, vis, delRow, delCol)) {
                         return true;
-                    vis[i][j] = 0;
-                    sb.deleteCharAt(sb.length() - 1);
+                    }
                 }
             }
         }
+
         return false;
     }
 }
